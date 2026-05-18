@@ -13,7 +13,6 @@ Add your images under `docs/screenshots/` and update the paths if needed.
 - Onboarding flow: language, gender, goal, focus area, and user info
 - Workout categories and exercise detail pages
 - Nutrition page with meal reminders
-- Demo map screen (static image)
 - Per-app language switching (English, Amharic, Oromo)
 
 ## Architecture
@@ -23,7 +22,7 @@ Add your images under `docs/screenshots/` and update the paths if needed.
 
 ## Project notes
 - Workout and localized nutrition features are implemented in the app.
-- Built by a team of 5 members as a mobile app project.
+- Built by a team of 6 members as a mobile app project.
 - Taught by Mr. Sidrak.
 
 ## Tech stack
