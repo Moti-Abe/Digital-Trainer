@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">DigitalTrainer</string>
+    <string name="language_title">Language</string>
+    <string name="language_english">English</string>
+    <string name="language_amharic">Amharic</string>
+    <string name="language_oromo">Oromo</string>
+    <string name="gender_title">What’s Your Gender?</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="action_next">Next</string>
+    <string name="meal_times_title">Meal Reminders</string>
+    <string name="meal_times_subtitle">Set the time you want to be reminded.</string>
+    <string name="meal_breakfast">Breakfast</string>
+    <string name="meal_lunch">Lunch</string>
+    <string name="meal_dinner">Dinner</string>
+    <string name="action_save">Save</string>
+    <string name="action_set_times">Set meal times</string>
+    <string name="notification_channel_meals">Meal reminders</string>
+    <string name="notification_channel_meals_desc">Daily meal time notifications</string>
+    <string name="notification_breakfast_title">Breakfast time</string>
+    <string name="notification_lunch_title">Lunch time</string>
+    <string name="notification_dinner_title">Dinner time</string>
+    <string name="notification_meal_body">It’s time for your meal.</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_edit">Edit</string>
+    <string name="meal_test_notification">Send test notification</string>
+    <string name="action_back">Back</string>
+
+    <string name="nutrition_title">Nutrition</string>
+    <string name="nutrition_calories">Calories</string>
+    <string name="nutrition_unit_per_100g">per 100g</string>
+    <string name="nutrition_protein">Protein</string>
+    <string name="nutrition_unit_per_serving">per serving</string>
+    <string name="nutrition_fat">Fat</string>
+    <string name="nutrition_carbs">Carbs</string>
+
+    <string name="profile_title">Profile</string>
+    <string name="profile_dark_mode">Dark mode</string>
+    <string name="profile_label_gender">Gender</string>
+    <string name="profile_label_goal">Goal</string>
+    <string name="profile_label_focus_area">Focus area</string>
+    <string name="profile_label_birth_year">Birth year</string>
+    <string name="profile_label_weight">Weight</string>
+    <string name="profile_weight_value_kg">%1$s kg</string>
+    <string name="profile_label_height">Height</string>
+    <string name="profile_height_value_cm">%1$s cm</string>
+    <string name="profile_label_language">Language</string>
+    <string name="profile_reset_profile">Reset profile</string>
+
+    <string name="exercise_how_to_title">How to do it</string>
+    <string name="exercise_video_guide_title">Video guide</string>
+    <string name="exercise_video_guide_subtitle">Watch a quick tutorial for this exercise.</string>
+    <string name="exercise_watch_on_youtube">Watch on YouTube</string>
+    <string name="exercise_details_subtitle">Exercise details</string>
+    <string name="exercise_description_template">%1$s is a great move to train your %2$s.</string>
+    <string name="exercise_step1_template">Start with %1$s and set your posture.</string>
+    <string name="exercise_step2_template">Keep your core tight and move with control.</string>
+    <string name="exercise_step3_template">Breathe steadily and repeat for the target reps.</string>
+
+    <string name="workout_title">Workout</string>
+    <string name="workout_detail_title">%1$s Exercises</string>
+    <string name="action_filter">Filter</string>
+    <string name="filter_all">All</string>
+    <string name="action_nutrition">Nutrition</string>
+    <string name="action_map">Map</string>
+    <string name="action_profile">Profile</string>
+    <string name="workout_cta_title">Start your %1$d day plan</string>
+    <string name="workout_cta_subtitle">Customized workouts to match your goal.</string>
+    <string name="action_start">Start</string>
+    <string name="workout_category_chest">Chest</string>
+    <string name="workout_category_back">Back</string>
+    <string name="workout_category_shoulders">Shoulders</string>
+    <string name="workout_category_biceps">Biceps</string>
+    <string name="workout_category_triceps">Triceps</string>
+    <string name="workout_category_legs">Legs</string>
+    <string name="workout_category_abs">Abs</string>
+
+    <string name="goal_lose_weight">Lose weight</string>
+    <string name="goal_build_muscle">Build muscle</string>
+    <string name="goal_keep_fit">Keep fit</string>
+    <string name="plan_summary_not_selected">Not selected</string>
+    <string name="focus_full_body">Full body</string>
+
+    <string name="map_title">Map</string>
+    <string name="map_placeholder_content_description">Map image</string>
+
+    <plurals name="workout_exercise_count">
+        <item quantity="one">%d exercise</item>
+        <item quantity="other">%d exercises</item>
+    </plurals>
+</resources>

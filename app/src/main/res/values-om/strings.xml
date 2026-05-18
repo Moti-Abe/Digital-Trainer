@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">DigitalTrainer</string>
+    <string name="language_title">Afaan</string>
+    <string name="language_english">Ingliffa</string>
+    <string name="language_amharic">Amaariyiffa</string>
+    <string name="language_oromo">Afaan Oromoo</string>
+    <string name="gender_title">Saala kee maali?</string>
+    <string name="gender_male">Dhiira</string>
+    <string name="gender_female">Dubara</string>
+    <string name="action_next">Itti fufi</string>
+    <string name="meal_times_title">Yaadachiisa nyaataa</string>
+    <string name="meal_times_subtitle">Saʼaatii yaadachiisni siif kennamu qopheessi.</string>
+    <string name="meal_breakfast">Quraacaa</string>
+    <string name="meal_lunch">Laqxa</string>
+    <string name="meal_dinner">Halkan</string>
+    <string name="action_save">Olkaaʼi</string>
+    <string name="action_set_times">Yeroo nyaataa qopheessi</string>
+    <string name="notification_channel_meals">Yaadachiisa nyaataa</string>
+    <string name="notification_channel_meals_desc">Yaadachiisa saʼaatii nyaataa guyyaa guyyaa</string>
+    <string name="notification_breakfast_title">Yeroo quraacaa</string>
+    <string name="notification_lunch_title">Yeroo laqxa</string>
+    <string name="notification_dinner_title">Yeroo halkan</string>
+    <string name="notification_meal_body">Yeroo nyaataa kee dha.</string>
+    <string name="action_cancel">Haquu</string>
+    <string name="action_edit">Fooyyeessi</string>
+    <string name="action_back">Deebiʼi</string>
+    <string name="meal_test_notification">Yaadachiisa qorannoo ergi</string>
+
+    <string name="nutrition_title">Nyeenya</string>
+    <string name="nutrition_calories">Kaalorii</string>
+    <string name="nutrition_unit_per_100g">g 100f keessaa</string>
+    <string name="nutrition_protein">Pirootiinii</string>
+    <string name="nutrition_unit_per_serving">tajaajila tokkoof</string>
+    <string name="nutrition_fat">Faati</string>
+    <string name="nutrition_carbs">Kaabohayidireetii</string>
+
+    <string name="profile_title">Proofaayilii</string>
+    <string name="profile_dark_mode">Haala dukkanaa</string>
+    <string name="profile_label_gender">Saala</string>
+    <string name="profile_label_goal">Kaayyoo</string>
+    <string name="profile_label_focus_area">Iddoo xiyyeeffannoo</string>
+    <string name="profile_label_birth_year">Waggaa dhaloota</string>
+    <string name="profile_label_weight">Ulfaatina</string>
+    <string name="profile_weight_value_kg">%1$s ki.ki</string>
+    <string name="profile_label_height">Dheeraa</string>
+    <string name="profile_height_value_cm">%1$s se.mi</string>
+    <string name="profile_label_language">Afaan</string>
+    <string name="profile_reset_profile">Proofaayilii haaromsi</string>
+
+    <string name="exercise_how_to_title">Akka itti hojjetamu</string>
+    <string name="exercise_video_guide_title">Qajeelfama viidiyoo</string>
+    <string name="exercise_video_guide_subtitle">Qajeelfama gabaabaa viidiyoo kana ilaali.</string>
+    <string name="exercise_watch_on_youtube">YouTube irratti ilaali</string>
+    <string name="exercise_details_subtitle">Ibsa leenjii</string>
+    <string name="exercise_description_template">%1$s leenjii gaarii kan %2$s cimsu dha.</string>
+    <string name="exercise_step1_template">%1$s jalqabii fi bakka kee sirreessi.</string>
+    <string name="exercise_step2_template">Giddugala kee jabeeffadhu, suuta sochoʼi.</string>
+    <string name="exercise_step3_template">Hafuura sirnaan fudhadhu, irra deebiʼi.</string>
+
+    <string name="workout_title">Leenjii Jiimii</string>
+    <string name="workout_detail_title">Leenjii %1$s</string>
+    <string name="action_filter">Filannoo</string>
+    <string name="filter_all">Hunda</string>
+    <string name="action_nutrition">Nyeenya</string>
+    <string name="action_map">Kaartaa</string>
+    <string name="action_profile">Proofaayilii</string>
+    <string name="workout_cta_title">Sagantaa guyyaa %1$d jalqabaa</string>
+    <string name="workout_cta_subtitle">Leenjii kaayyoo kee waliin walsimu.</string>
+    <string name="action_start">Jalqabi</string>
+    <string name="workout_category_chest">Cinaachaa</string>
+    <string name="workout_category_back">Dugda</string>
+    <string name="workout_category_shoulders">Garbii</string>
+    <string name="workout_category_biceps">Bicepsi</string>
+    <string name="workout_category_triceps">Tricepsi</string>
+    <string name="workout_category_legs">Miila</string>
+    <string name="workout_category_abs">Garaa</string>
+
+    <string name="goal_lose_weight">Ulfaatina hirʼisu</string>
+    <string name="goal_build_muscle">Muruqa ijaaruu</string>
+    <string name="goal_keep_fit">Fittii taʼuu</string>
+    <string name="plan_summary_not_selected">Hin filatamne</string>
+    <string name="focus_full_body">Qaama guutuu</string>
+
+    <plurals name="workout_exercise_count">
+        <item quantity="one">%d leenjii</item>
+        <item quantity="other">%d leenjiiwwan</item>
+    </plurals>
+
+    <string name="map_title">Kaartaa</string>
+    <string name="map_placeholder_content_description">Suuraa kaartaa</string>
+</resources>

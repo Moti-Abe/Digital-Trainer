@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">DigitalTrainer</string>
+    <string name="language_title">ቋንቋ</string>
+    <string name="language_english">እንግሊዝኛ</string>
+    <string name="language_amharic">አማርኛ</string>
+    <string name="language_oromo">ኦሮሞኛ</string>
+    <string name="gender_title">ፆታዎ ምንድነው?</string>
+    <string name="gender_male">ወንድ</string>
+    <string name="gender_female">ሴት</string>
+    <string name="action_next">ቀጥል</string>
+    <string name="meal_times_title">የምግብ ማሳሰቢያዎች</string>
+    <string name="meal_times_subtitle">ማሳሰቢያ የሚሰጥበትን ሰዓት ያዘጋጁ።</string>
+    <string name="meal_breakfast">ቁርስ</string>
+    <string name="meal_lunch">ምሳ</string>
+    <string name="meal_dinner">እራት</string>
+    <string name="action_save">አስቀምጥ</string>
+    <string name="action_set_times">የምግብ ሰዓታት ያዘጋጁ</string>
+    <string name="notification_channel_meals">የምግብ ማሳሰቢያዎች</string>
+    <string name="notification_channel_meals_desc">ዕለታዊ የምግብ ሰዓት ማሳሰቢያ</string>
+    <string name="notification_breakfast_title">የቁርስ ሰዓት</string>
+    <string name="notification_lunch_title">የምሳ ሰዓት</string>
+    <string name="notification_dinner_title">የእራት ሰዓት</string>
+    <string name="notification_meal_body">ምግብዎ እንደሚደርስ ጊዜ ነው።</string>
+    <string name="action_cancel">ሰርዝ</string>
+    <string name="action_edit">አስተካክል</string>
+    <string name="action_back">ተመለስ</string>
+    <string name="meal_test_notification">ሙከራ ማሳወቂያ ላክ</string>
+
+    <string name="nutrition_title">ምግብ ንጥረ ነገሮች</string>
+    <string name="nutrition_calories">ካሎሪ</string>
+    <string name="nutrition_unit_per_100g">በ100ግ</string>
+    <string name="nutrition_protein">ፕሮቲን</string>
+    <string name="nutrition_unit_per_serving">በአንድ አገልግሎት</string>
+    <string name="nutrition_fat">ስብ</string>
+    <string name="nutrition_carbs">ካርቦሃይድሬት</string>
+
+    <string name="profile_title">መገለጫ</string>
+    <string name="profile_dark_mode">ጨለማ ሁኔታ</string>
+    <string name="profile_label_gender">ፆታ</string>
+    <string name="profile_label_goal">ግብ</string>
+    <string name="profile_label_focus_area">የትኩረት ቦታ</string>
+    <string name="profile_label_birth_year">የትውልድ አመት</string>
+    <string name="profile_label_weight">ክብደት</string>
+    <string name="profile_weight_value_kg">%1$s ኪ.ግ</string>
+    <string name="profile_label_height">ቁመት</string>
+    <string name="profile_height_value_cm">%1$s ሴ.ሜ</string>
+    <string name="profile_label_language">ቋንቋ</string>
+    <string name="profile_reset_profile">መገለጫን ዳግም አስጀምር</string>
+
+    <string name="exercise_how_to_title">እንዴት እንደሚከናወን</string>
+    <string name="exercise_video_guide_title">የቪዲዮ መመሪያ</string>
+    <string name="exercise_video_guide_subtitle">ለዚህ እንቅስቃሴ አጭር መመሪያ ቪዲዮ ይመልከቱ።</string>
+    <string name="exercise_watch_on_youtube">በYouTube ይመልከቱ</string>
+    <string name="exercise_details_subtitle">የእንቅስቃሴ ዝርዝሮች</string>
+    <string name="exercise_description_template">%1$s ለ%2$s ጡንቻ ማበርታት ጥሩ እንቅስቃሴ ነው።</string>
+    <string name="exercise_step1_template">%1$s በመጀመር አቀማመጥዎን ያስተካክሉ።</string>
+    <string name="exercise_step2_template">ውስጣዊ ጡንቻዎን ይጠናክሩ እና በቁጥጥር ይንቀሳቀሱ።</string>
+    <string name="exercise_step3_template">መተንፈስን ቀጥሉ እና ለተመዘገበው ቁጥር ድግግሞሽ ያድርጉ።</string>
+
+    <string name="workout_title">የጂም ስራዎች</string>
+    <string name="workout_detail_title">%1$s እንቅስቃሴዎች</string>
+    <string name="action_filter">ማጣሪያ</string>
+    <string name="filter_all">ሁሉም</string>
+    <string name="action_nutrition">ምግብ</string>
+    <string name="action_map">ካርታ</string>
+    <string name="action_profile">መገለጫ</string>
+    <string name="workout_cta_title">የ%1$d ቀን እቅድዎን ጀምሩ</string>
+    <string name="workout_cta_subtitle">ከግብዎ ጋር የተጣጣሙ ስራዎች።</string>
+    <string name="action_start">ጀምር</string>
+    <string name="workout_category_chest">ደረት</string>
+    <string name="workout_category_back">ጀርባ</string>
+    <string name="workout_category_shoulders">ትከሻ</string>
+    <string name="workout_category_biceps">ባይሰፕስ</string>
+    <string name="workout_category_triceps">ትራይሰፕስ</string>
+    <string name="workout_category_legs">እግር</string>
+    <string name="workout_category_abs">የሆድ</string>
+
+    <string name="goal_lose_weight">ክብደት መቀነስ</string>
+    <string name="goal_build_muscle">ጡንቻ መገንባት</string>
+    <string name="goal_keep_fit">ጤናማ መቆየት</string>
+    <string name="plan_summary_not_selected">አልተመረጠም</string>
+    <string name="focus_full_body">ሙሉ አካል</string>
+
+    <plurals name="workout_exercise_count">
+        <item quantity="one">%d እንቅስቃሴ</item>
+        <item quantity="other">%d እንቅስቃሴዎች</item>
+    </plurals>
+
+    <string name="map_title">ካርታ</string>
+    <string name="map_placeholder_content_description">የካርታ ምስል</string>
+</resources>
