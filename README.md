@@ -5,7 +5,8 @@ DigitalTrainer is a Kotlin + Jetpack Compose Android app focused on workouts, nu
 ## Screenshots
 Add your images under `docs/screenshots/` and update the paths if needed.
 
-<img width="1918" height="1146" alt="image" src="https://github.com/user-attachments/assets/9561273d-1cf5-4011-a35c-cb346799de66" />
+<img width="1918" height="1145" alt="image" src="https://github.com/user-attachments/assets/0dfc2190-2d4d-4fdc-9caf-f57883d2e76b" />
+
 
 
 ## Features
