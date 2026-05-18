@@ -5,9 +5,8 @@ DigitalTrainer is a Kotlin + Jetpack Compose Android app focused on workouts, nu
 ## Screenshots
 Add your images under `docs/screenshots/` and update the paths if needed.
 
-![Workout screen](docs/screenshots/workout.png)
-![Nutrition screen (localized)](docs/screenshots/nutrition_localized.png)
-![Map screen](docs/screenshots/map.png)
+<img width="1918" height="1146" alt="image" src="https://github.com/user-attachments/assets/9561273d-1cf5-4011-a35c-cb346799de66" />
+
 
 ## Features
 - Onboarding flow: language, gender, goal, focus area, and user info
